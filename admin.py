@@ -1,2 +1,3 @@
-Print("The admin name is Vijay")
-Print("This is First change")
+print("The admin name is Vijay")
+print("This is First change")
+# Made Changes by PES2UG20CS240
